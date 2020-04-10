@@ -1,4 +1,2 @@
-# GAN Based Corpus Augmentation
-The goal of this project was to build a system that could take a small amount of medical imaging data use that to generate more similar data using a DCGAN. The goal of this was improving the accuracy of classic computer vision problems that traditionally require more data than is available in medical datasets. This is basically a DAGAN (data augmentation GAN), but when I first started researching this idea I couldn't find anything similar so ethier DAGAN's weren't very well known at that time or I just missed them. 
-
-This project is the result of the efforts of 5 UC Berkeley undergraduates through the datascience discovery program. The project was first started in summer 2019 when I proposed this project to the discovery program. The work was mainly completed over the course of the fall semester of 2019. Since then I've been attempting to compile data and write a paper and build a website and a bunch of other administrative stuff but I'm always busy. That may or may not be coming soon. # GAN_corpus_aug
+# This is a test
+i home this works
