@@ -4,12 +4,13 @@ theme: jekyll-theme-minimal
 #
 # This file contains configuration flags to customize your site
 #
-
+markdown: kramdown
 # Name of your site (displayed in the header)
 name: Your Name
-
+site.name: DCGAN based Corpus Augmentation
+site.title: DCGAN Based Corpus Autmentation
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Medical computer vision improvment
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
