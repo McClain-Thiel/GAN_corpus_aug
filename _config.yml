@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 theme: jekyll-theme-minimal
-=======
+#=======
 #
 # This file contains configuration flags to customize your site
 #
@@ -89,4 +89,4 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-minimal
->>>>>>> 5bb28c53ec356c407d0a766998685578601c8575
+#>>>>>>> 5bb28c53ec356c407d0a766998685578601c8575
